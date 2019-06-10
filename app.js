@@ -53,7 +53,7 @@ const d6 = new Dice(6);
 const d4 = new Dice(4);
 
 // roll a d20
-console.log( d20.roll() ); // generates a random number from 1 to 20
+console.log( d10.roll() ); // generates a random number from 1 to 20
 
 
 
